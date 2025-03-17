@@ -64,7 +64,7 @@
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/franco-federico-lópez-ab8b2a350)
 
 ## 👨‍💻 Todos mis proyectos están disponibles por debajo de este README o 
- también en la sección de repositorios de mi perfil: [Mi Portafolio](https://github.com/FFrancoLopez?tab=repositories)
+ también en la sección de  [Repositories](https://github.com/FFrancoLopez?tab=repositories)  de mi perfil de GitHub.
 
 <p align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ffrancolopez&show_icons=true&theme=radical" />
