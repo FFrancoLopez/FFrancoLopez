@@ -63,9 +63,12 @@
 - Email: ffedericolopezz@gmail.com
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/franco-federico-lópez-ab8b2a350)
 
-## 👨‍💻 Todos mis proyectos están disponibles en
-[Mi Portafolio](https://github.com/FFrancoLopez?tab=repositories)
+## 👨‍💻 Todos mis proyectos están disponibles por debajo de este README o 
+ también en la sección de repositorios de mi perfil: [Mi Portafolio](https://github.com/FFrancoLopez?tab=repositories)
 
+<p align="center">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ffrancolopez&show_icons=true&theme=radical" />
+</p>
 <table>
   <tr>
     <td>
