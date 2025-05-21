@@ -4,7 +4,7 @@
       <h1>Hola! 👋🏼 Soy Franco López</h1>
       <h3>🎯 Full Stack Developer | Especialización en Backend</h3>
       <p>🙋🏼‍♂️Soy un desarrollador Full Stack con un enfoque especial por la construcción de soluciones robustas y escalables en el backend.</p>
-      <p>He desarrollado una sólida base técnica en <strong>JavaScript, HTML, CSS, Node.js, Express, TypeScript, NestJS, React, MongoDB, PostgreSQL y Prisma.</strong></p>
+      <p>He desarrollado una sólida base técnica en <strong>JavaScript, HTML, CSS, Node.js, Express, TypeScript, NestJS, React, Vite, MongoDB, PostgreSQL y Prisma.</strong></p>
     </td>
     <td>
       <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="300">
@@ -42,8 +42,8 @@
    ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
-## 🔭 Actualmente trabajando en el
-- Desarrollo de una aplicación de gestión de turnos y pagos para un gimnasios con NestJS, Prisma, OAuth, MercadoPago, entre otras.
+## 🔭 Actualmente 
+- Formando parte de un proyecto innovador en el que desarrollamos modelos de inteligencia que comprenden los hábitos de consumo de las personas, sugieren acciones personalizadas y potencian ventas más inteligentes, repetibles y predecibles.
 
 ## 👯 Buscando colaborar en
 - Proyectos que involucren NestJS o bases de datos relacionales y NoSQL.
