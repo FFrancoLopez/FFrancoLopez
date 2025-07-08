@@ -45,11 +45,13 @@
 
 
 ## 🔭 Actualmente 
-- Formando parte de un proyecto innovador en el que desarrollamos modelos de inteligencia que comprenden los hábitos de consumo de las personas, sugieren acciones personalizadas y potencian ventas más inteligentes, repetibles y predecibles (empresa: QikStarts IA).
+- Me encuentro realizando una pasantía como Back-End Developer en la empresa QikStarts IA, participando activamente en un proyecto innovador que desarrolla modelos de inteligencia artificial capaces de comprender hábitos de consumo, sugerir acciones personalizadas y potenciar ventas más inteligentes, repetibles y predecibles.
 
-## 👯 Buscando colaborar en
-- Proyectos que involucren NestJS o bases de datos relacionales y NoSQL.
-- También estoy dispuesto a aprender nuevas tecnologías.
+- En este proyecto trabajo con tecnologías como NestJS, JWT, Swagger, MongoDB (NoSQL) y Mongoose, aplicando buenas prácticas de desarrollo backend y metodologías ágiles como Scrum.
+
+## 👯 Buscando colaborar como Back-End Dev en
+- Proyectos que involucren NestJS o bases de datos SQL y NoSQL.
+- También estoy dispuesto a APRENDER nuevas tecnologías.
 
 ## 🤝 Me desarrollo muy bien en
 - 🌱 Ambientes de trabajo sanos y colaborativos, fomentando la comunicación y el respeto.
@@ -60,6 +62,7 @@
 
 ## 🌱 Aprendiendo actualmente
 - Arquitectura de software y buenas prácticas en desarrollo escalable.
+- También sobre las herramientas que nos brinda la Inteligencia Artificial.
 
 ## 📫 Cómo contactarme
 - Email: ffedericolopezz@gmail.com
