@@ -45,13 +45,21 @@
 
 
 ## 🔭 Actualmente 
-- Me encuentro realizando una pasantía como Back-End Developer en la empresa QikStarts IA, participando activamente en un proyecto innovador que desarrolla modelos de inteligencia artificial capaces de comprender hábitos de consumo, sugerir acciones personalizadas y potenciar ventas más inteligentes, repetibles y predecibles.
-
-- En este proyecto trabajo con tecnologías como NestJS, JWT, Swagger, MongoDB (NoSQL) y Mongoose, aplicando buenas prácticas de desarrollo backend y metodologías ágiles como Scrum.
+- Me encuentro trabajando como Back-End Developer en la empresa QikStarts IA, participando activamente en un proyecto innovador que desarrolla modelos de inteligencia artificial capaces de comprender hábitos de consumo, sugerir acciones personalizadas y potenciar ventas más inteligentes, repetibles y predecibles.<br/>
+🔹Desarrollar endpoints RESTful utilizando NestJS para distintos módulos del sistema. <br/>
+🔹Diseñar esquemas de datos eficientes con Mongoose para MongoDB.<br/>
+🔹Implementar validaciones robustas en los DTOs usando class-validator.<br/>
+🔹Construir guards personalizados para autenticar y autorizar el acceso a la API (por ejemplo, validación mediante API Key).<br/>
+🔹Integrar Swagger para la documentación interactiva de los endpoints.<br/>
+🔹Aplicar principios SOLID y buenas prácticas en el diseño del backend.<br/>
+🔹Gestionar la configuración del entorno con variables .env y el servicio de configuración global.<br/>
+🔹Colaborar en un entorno ágil junto a un equipo multidisciplinario utilizando metodologías ágiles.<br/>
+🔹Optimizar la estructura y reutilización del código para mantener una arquitectura limpia y escalable.<br/>
+🔹Resolver errores relacionados con índices únicos en MongoDB y configuraciones de Mongoose.<br/>
 
 ## 👯 Buscando colaborar como Back-End Dev en
-- Proyectos que involucren NestJS o bases de datos SQL y NoSQL.
-- También estoy dispuesto a APRENDER nuevas tecnologías.
+- Proyectos que impliquen crecimiento y aprendizaje profesional.
+- Ambientes sanos, cómodos y libre de cualquier tipo de ofensa dirijida hacia una persona y/o ser vivo.
 
 ## 🤝 Me desarrollo muy bien en
 - 🌱 Ambientes de trabajo sanos y colaborativos, fomentando la comunicación y el respeto.
