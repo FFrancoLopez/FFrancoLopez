@@ -2,12 +2,16 @@
   <tr>
     <td>
       <h1>Hola! 👋🏼 Soy Franco López</h1>
-      <h3>🎯 Full Stack Developer | Especialización en Backend</h3>
-      <p>🙋🏼‍♂️Soy un desarrollador Full Stack con un enfoque especial por la construcción de soluciones robustas y escalables en el backend.</p>
-      <p>He desarrollado una sólida base técnica en <strong>JavaScript, HTML, CSS, Node.js, Express, TypeScript, NestJS, React, Vite, MongoDB, PostgreSQL y Prisma.</strong></p>
+     <h3>🎯 Full Stack Developer | Enfoque en Backend</h3>
+      <p>👨🏼‍💻 Soy un apasionado Full Stack Developer con experiencia práctica en proyectos reales, adquirida a través del bootcamp <strong>Henry</strong> y mi trabajo en <strong>QikStarts IA</strong>.  
+      Me especializo en diseñar y construir <strong>APIs REST seguras y escalables</strong>, así como en el modelado de datos y la automatización de procesos backend.<br>
+        Además, he desarrollado habilidades esenciales en liderazgo, comunicación y trabajo en equipo, lo que me permite colaborar de manera efectiva en entornos dinámicos.<br>
+        <br>
+        📍 Vivo en Salsipuedes, Córdoba, Argentina — disponible para posiciones remotas o híbridas.
+      </p>
     </td>
     <td>
-      <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="300">
+      <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="850">
     </td>
   </tr>
 </table>
@@ -42,7 +46,13 @@
    ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
    ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-
+<h3>🫱🏼‍🫲🏽 Qué ofrezco</h3>
+      <p>
+        🔸 Desarrollo de APIs REST y consumo de servicios externos.<br>
+        🔸 Modelado y optimización de bases de datos (SQL y NoSQL).<br>
+        🔸 Experiencia con ORMs (Mongoose, TypeORM, Prisma) y despliegues en plataformas PaaS.<br>
+        🔸 Mentalidad proactiva, compromiso con la calidad del código y ganas de aprender nuevas tecnologías (Cloud, CI/CD, DevOps).
+      </p>
 
 ## 🔭 Actualmente 
 - Me encuentro trabajando(Part-Time) como Back-End Developer en la empresa QikStarts IA, participando activamente en un proyecto innovador que desarrolla modelos de inteligencia artificial capaces de comprender hábitos de consumo, sugerir acciones personalizadas y potenciar ventas más inteligentes, repetibles y predecibles.<br/>
@@ -75,6 +85,7 @@
 ## 📫 Cómo contactarme
 - Email: ffedericolopezz@gmail.com
 - LinkedIn: [Mi Perfil](https://linkedin.com/in/franco-federico-lópez-ab8b2a350)
+- WhatsApp: +54 9 3525 647380
 
 ## 👨‍💻 Todos mis proyectos están disponibles por debajo de este README o 
  también en la sección de  [Repositories](https://github.com/FFrancoLopez?tab=repositories)  de mi perfil de GitHub.
