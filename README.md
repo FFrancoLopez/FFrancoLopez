@@ -45,7 +45,7 @@
 
 
 ## 🔭 Actualmente 
-- Me encuentro trabajando como Back-End Developer en la empresa QikStarts IA, participando activamente en un proyecto innovador que desarrolla modelos de inteligencia artificial capaces de comprender hábitos de consumo, sugerir acciones personalizadas y potenciar ventas más inteligentes, repetibles y predecibles.<br/>
+- Me encuentro trabajando(Part-Time) como Back-End Developer en la empresa QikStarts IA, participando activamente en un proyecto innovador que desarrolla modelos de inteligencia artificial capaces de comprender hábitos de consumo, sugerir acciones personalizadas y potenciar ventas más inteligentes, repetibles y predecibles.<br/>
 🔹Desarrollar endpoints RESTful utilizando NestJS para distintos módulos del sistema. <br/>
 🔹Diseñar esquemas de datos eficientes con Mongoose para MongoDB.<br/>
 🔹Implementar validaciones robustas en los DTOs usando class-validator.<br/>
