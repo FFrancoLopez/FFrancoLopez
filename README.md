@@ -9,13 +9,17 @@
         módulos CRUD optimizados, sistemas de turnos y reservas, paneles administrativos, validación de datos, manejo de errores, documentación con Swagger,
         integración con bases de datos SQL y NoSQL y optimización de consultas mediante ORMs como TypeORM, Prisma y ODM como Mongoose.<br>
 
-Además, cuento con experiencia construyendo funcionalidades Full Stack modernas. Desarrollando APIs Routes (Serverless) en React + Next.js, trabajando el consumo desde los componentes, estilos con TailwindCSS, manejo de estado avanzado con Zustand, y capacidades realtime mediante Socket.io o Supabase Realtime (chat integrado y sincronización de eventos). Experiencia integrando proyectos con Supabase. 
+Además, cuento con experiencia construyendo funcionalidades Full Stack modernas. Desarrollando APIs Routes (Serverless) en React + Next.js, trabajando el consumo desde los componentes, estilos con TailwindCSS, manejo de estado avanzado con Zustand, y capacidades realtime mediante Socket.io o Supabase Realtime (chat integrado y sincronización de eventos). Experiencia integrando proyectos con Supabase.<br>
         <br>
         📍 Vivo en Salsipuedes, Córdoba, Argentina — disponible para posiciones remotas o híbridas.
       </p>
     </td>
-    <td>
-      <img src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg" width="850">
+    </td>
+    <td width="35%" align="center">
+      <img 
+        src="https://i.pinimg.com/474x/7f/7b/0c/7f7b0c9bf14ae9b769705a071dfb6dd0.jpg"
+        width="320"
+      />
     </td>
   </tr>
 </table>
